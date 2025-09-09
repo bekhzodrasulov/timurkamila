@@ -55,7 +55,7 @@ html {
 .rose-middle,
 .rose-left-footer,
 .rose-right-footer {
-  max-width: 250px;
+  max-width: 200px;
   height: auto;
   transition: transform 0.5s ease-in-out;
 }
@@ -64,7 +64,7 @@ html {
 .rose-left-header {
   position: absolute;
   top: 0;
-  left: -193px;
+  left: -123px;
 }
 
 .rose-right-header {
@@ -83,14 +83,14 @@ html {
 .rose-left-footer {
   position: absolute;
   bottom: 110px;
-  left: -194px;
+  left: -125px;
   z-index: -1;
 }
 
 .rose-right-footer {
   position: absolute;
   bottom: 0px;
-  right: -210px;
+  right: -130px;
   z-index: -1;
 }
 
@@ -247,7 +247,7 @@ html {
 
   .family-name {
     font-family: "Dancing Script", cursive;
-    font-size: 22px;
+    font-size: 18px;
     font-weight: bold;
   }
   .music-control {
@@ -375,7 +375,7 @@ html {
   .rose-middle,
   .rose-left-footer,
   .rose-right-footer {
-    max-width: 450px;
+    max-width: 200px;
     opacity: 0;
     transform: scale(0.8);
     animation-fill-mode: forwards;
@@ -724,7 +724,7 @@ html {
   .rose-middle,
   .rose-left-footer,
   .rose-right-footer {
-    max-width: 450px;
+    max-width: 300px;
     opacity: 0;
     transform: scale(0.8);
     animation-fill-mode: forwards;
@@ -1065,7 +1065,7 @@ html {
 .rose-middle,
 .rose-left-footer,
 .rose-right-footer {
-  max-width: 450px;
+  max-width: 300px;
   opacity: 0;
   transform: scale(0.8);
   animation-fill-mode: forwards;
